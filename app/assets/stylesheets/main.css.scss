@@ -1,0 +1,24 @@
+// Place all the styles related to the main controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+$grey: #B8B5C7;
+
+body { width: 100%; height: 100%; background-color: $grey; font-family: 'Open Sans', sans-serif;
+	padding-left: 20%; padding-right: 20%; text-align: center; padding-top: 5% }
+
+.headertext { margin: 20px; font-size: 1.5em }
+
+#topheadline { margin-top: 5%; margin-bottom: 5% }
+
+#emailbox {width: 40%; margin: 0 auto; padding-top: 2%; min-width: 200px; }
+
+#launch { margin-top: 5%; margin-bottom: 5%; }
+
+p#crafted {height: 140%; margin-top: 10%; font-size: 1.2em}
+
+#imagesdiv img { margin-right: 3px; }
+
+#loanr {font-family: 'Lobster', cursive;}
+
+
+
